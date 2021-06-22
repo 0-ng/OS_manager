@@ -1041,7 +1041,7 @@ int main(int argc,char **argv) {
     }
     int ret = -1;
     char op[256];
-    fd = open("../memory", O_RDWR);
+    fd = open("memory", O_RDWR);
 
     if (-1 == fd) {
         perror("文件打开错误");
