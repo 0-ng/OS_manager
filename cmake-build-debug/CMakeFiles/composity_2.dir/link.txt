@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/composity_2.dir/main.cpp.o -o composity_2  -pthread 

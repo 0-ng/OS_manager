@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leung-0ng/桌面/OS/composity_2/main.cpp
+semaphore.h
+-
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+algorithm
+-
+fcntl.h
+-
+std_data_struct.h
+/home/leung-0ng/桌面/OS/composity_2/std_data_struct.h
+
+/home/leung-0ng/桌面/OS/composity_2/std_data_struct.h
+stdio.h
+-
+
